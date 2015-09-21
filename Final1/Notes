@@ -1,0 +1,34 @@
+Bonuses:
+	Length
+		+4 per character
+
+	Count chars
+		+1 per character
+		A-Z
+		a-z
+		0-9
+		^A-Za-z0-9
+
+	Meets Requirements
+		+10
+		
+Penelties:
+	Only letters
+		-1
+	Only numbers
+		-1
+
+Repeat Characters
+	-1 per repitition
+
+Case insensitive repeat
+	-1
+	
+Consecutive Counts
+	Upper, Lower, Number, Special
+	-1 * 2 per character
+	
+Sequential Counts
+	abc, 123
+	-1 * 3 per character after two
+
